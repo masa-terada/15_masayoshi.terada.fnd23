@@ -1,0 +1,58 @@
+body {
+  background-color: white;
+  box-sizing: border-box;
+  text-align: center;
+  /* background-image: url(15.jpg) */
+}
+
+h1 {
+  background-color: white;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 50px;
+  color: rgb(13, 25, 165);
+  margin:10px;
+}
+
+h2 {
+  background-color: white;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 45px;
+  margin:10px;
+}
+
+h3 {
+  background-color: white;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 40px;
+  margin:5px;
+}
+
+#gallery {
+  margin: auto;
+  padding-top: 40px;
+  width: 550px;
+}
+
+#gallery .main img {
+  border: 2px solid white;
+  box-shadow: 0px 0px 14px black;
+  width: 100%;
+}
+
+#gallery .main p {
+  color: rgb(118, 12, 12);
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#gallery .small img {
+  border:2px solid white;
+  border-radius: 40px;
+  box-shadow: 0px 0px 10px black;
+  height: 60px;
+  margin: 5px;
+  width: 60px;
+}
