@@ -18,7 +18,7 @@ function test(actual, expected) {
 }
 
 let array = [];	// 5つの数(問題)を格納する配列
-let startTime;			// ゲーム開始時刻を格納する変数]
+let startTime;	// ゲーム開始時刻を格納する変数]
 let missCnt = 0;
 
 
